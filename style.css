@@ -154,7 +154,7 @@ body {
     gap: 30px;
   }
   .card__section {
-    min-height: 235px;
+    max-height: 235px;
   }
   .card__perfil {
     margin-bottom: 30px;
@@ -170,5 +170,6 @@ body {
   }
   .card__info {
     font-size: 1.12rem;
+    line-height: 22px;
   }
 }
